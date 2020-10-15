@@ -39,6 +39,4 @@ The markdown template is below generally.
 
 ## Latitude, longitude
 
-## Interesting fact
-
-***
+this is new line by Magheshwari
